@@ -8,4 +8,4 @@ A web app that recommends laptops and mobile phones based on natural language qu
 3. Install Playwright browsers: `playwright install`
 
 ## Status
-- Week 1: Project structure set up, Git initialized, dependencies installed. Next: Scraping Amazon, Flipkart, and fallback sites.
+- Week 1: Project structure fully set up (scraper/, data/, nlp/, app/), Git initialized, dependencies installed. Next: Scraping Amazon, Flipkart, and fallback sites.
